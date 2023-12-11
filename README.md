@@ -1,4 +1,4 @@
-# Computer_Vision
+#Library Management System
 
 LOGIN DETAILS FOR THE LIBRARIAN :-
 
